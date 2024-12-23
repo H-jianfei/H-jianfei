@@ -3,7 +3,7 @@
 - 🔭 I’m currently studying at CUHK(SZ)
 - 🌱 I’m currently learning casual inference , machine learning , Optimazation , ...
 - 💬 interested in  Data Science
-- 😎 skill:
+- 😎 Skill:
 - 
   **Machine learning:** LR, SVM, RF, XGB, Clustering
   
