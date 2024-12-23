@@ -27,4 +27,6 @@
     -Project 1: name
   
     -Project 2: name
+
+  ### Some Course project
   
