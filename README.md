@@ -5,7 +5,9 @@
 - 💬 interested in  Data Science
 - 😎 skill:
   **Machine learning:** LR, SVM, RF, XGB, Clustering
+  
   **Sta:** A/B Testing, Hypothesis testing, Law of large numbers
+  
   **Others:** SQL, Pytorch, BI, Python(Numpy pandas sklearn,pyplot)
 
   ## Project
