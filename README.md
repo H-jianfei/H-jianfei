@@ -14,19 +14,5 @@
   ## Project
 
   Here are the links about the project I did in the past few month,which includes Data engineering, Data Science, Data Analyst.
-  ### Data Engineering
-    -Project 1: name
-  
-    -Project 2: name 
-  ### Data Science
-    -Project 1: name
-  
-    -Project 2: name
-  
-  ### Data Analyst
-    -Project 1: name
-  
-    -Project 2: name
 
-  ### Some Course project
   
